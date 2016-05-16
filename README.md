@@ -5,4 +5,4 @@ Just a GitHub ribbon.
 
 License
 -------
-WTFPL
+MIT
